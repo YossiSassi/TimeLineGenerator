@@ -1,5 +1,6 @@
 # TimeLineGenerator
-AD account timeline generator - parse DC security logs for activity timeline
+AD account timeline generator - parse DC security logs for activity timeline.
+
 
 Can run directly on Domain Controllers (Live, through WinRM), OR - specify Path to Evtx files.
 
